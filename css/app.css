@@ -1,0 +1,32 @@
+body{
+      margin:0;
+  }
+  
+  .nav{
+      height:50px;
+  }
+  
+  .nav ul{
+      float:right;
+      display:inline;
+
+  }
+  
+  .nav li{
+      display:inline;
+      
+  }
+  .gray-box{
+      background-color:#999;
+  }
+  
+  .spacer{
+      margin-top:1.5em;
+      
+  }
+  
+  .container{
+      width:1170px;
+      margin-left:auto;
+      margin-right:auto;
+  }
